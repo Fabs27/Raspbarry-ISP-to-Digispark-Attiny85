@@ -1,0 +1,1 @@
+Seguindo esses passos, você deve ser capaz de reprogramar o bootloader do seu ATtiny85 usando o Raspberry Pi Pico. Se você tiver qualquer dúvida ou encontrar problemas, sinta-se à vontade para abrir uma issue no repositório ou procurar ajuda em fóruns especializados.
